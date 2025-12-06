@@ -1,10 +1,10 @@
-[
-  {
-    "name": "dvfilm",
-    "src": "https://raw.githubusercontent.com/badboy996/MyiCons/main/EMBY/dvfilm.png"
-  },
-  {
-    "name": "funmedia",
-    "src": "https://raw.githubusercontent.com/badboy996/MyiCons/main/EMBY/funmedia.png"
-  }
-]
+{
+"name":"Emby图标库(补缺)", 
+"description":"小众服", 
+"icons":
+  [
+	{"name":"dvfilm", "url":"https://raw.githubusercontent.com/badboy996/MyiCons/main/EMBY/dvfilm.png"},
+	{"name":"funmedia", "url":"https://raw.githubusercontent.com/badboy996/MyiCons/main/EMBY/funmedia.png"}
+	
+    ]
+}
